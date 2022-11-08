@@ -1,6 +1,7 @@
 Keylogger made by Xwash.dk Developer: Slamboe
 
-Requirements Python from web = https://www.python.org/downloads/ Python Mircosoft Store = https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=us
+Requirements Python from web = https://www.python.org/downloads/ 
+Python Mircosoft Store = https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=us
 
 To run type in the file ![image](https://user-images.githubusercontent.com/108998296/194898584-6b2c6875-874a-4bb5-b30d-521774350587.png) cmd and enter then type python Keylogger.py and enter then it will run and then minimize the keylogger cmd window to stop the keylogger close the cmd window
 
