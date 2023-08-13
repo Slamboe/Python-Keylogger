@@ -1,4 +1,4 @@
-Keylogger made by Xwash.dk Developer: Slamboe
+Keylogger made by Slamboe
 
 Requirements Python from web = https://www.python.org/downloads/ 
 Python Mircosoft Store = https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=us
